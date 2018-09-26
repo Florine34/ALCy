@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alcy", "Alcy.csproj", "{3F34B710-1754-1854-BA59-A41DFAC88ECB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alcy.Plugins", "Alcy.Plugins.csproj", "{9C2C3932-3B37-AEF6-EFB6-95B36092FD4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alcy.Editor.Plugins", "Alcy.Editor.Plugins.csproj", "{3F422679-258E-F8FA-CA1B-7A5401D30962}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F34B710-1754-1854-BA59-A41DFAC88ECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F34B710-1754-1854-BA59-A41DFAC88ECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F34B710-1754-1854-BA59-A41DFAC88ECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F34B710-1754-1854-BA59-A41DFAC88ECB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C2C3932-3B37-AEF6-EFB6-95B36092FD4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C2C3932-3B37-AEF6-EFB6-95B36092FD4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C2C3932-3B37-AEF6-EFB6-95B36092FD4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C2C3932-3B37-AEF6-EFB6-95B36092FD4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F422679-258E-F8FA-CA1B-7A5401D30962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F422679-258E-F8FA-CA1B-7A5401D30962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F422679-258E-F8FA-CA1B-7A5401D30962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F422679-258E-F8FA-CA1B-7A5401D30962}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
